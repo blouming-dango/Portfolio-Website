@@ -1,0 +1,6 @@
+.bg-gradient-blue-dark-blue {
+    background-size: 100% 100%;
+    background-position: 0px 0px;
+    background-image: radial-gradient(75% 75% at 50% 50%, #00ffff 0%, #073aff 100%);
+
+}

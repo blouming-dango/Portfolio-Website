@@ -1,0 +1,64 @@
+.css-selector {
+    background: linear-gradient(184deg, #00ffff, #073aff);
+    background-size: 400% 400%;
+    -webkit-animation: bg-gradient-blue-dark-blue 10s ease infinite;
+    -moz-animation: bg-gradient-blue-dark-blue 10s ease infinite;
+    -o-animation: bg-gradient-blue-dark-blue 10s ease infinite;
+    animation: bg-gradient-blue-dark-blue 10s ease infinite;
+}
+
+@-webkit-keyframes bg-gradient-blue-dark-blue {
+    0% {
+        background-position: 72% 0%
+    }
+
+    50% {
+        background-position: 29% 100%
+    }
+
+    100% {
+        background-position: 72% 0%
+    }
+}
+
+@-moz-keyframes bg-gradient-blue-dark-blue {
+    0% {
+        background-position: 72% 0%
+    }
+
+    50% {
+        background-position: 29% 100%
+    }
+
+    100% {
+        background-position: 72% 0%
+    }
+}
+
+@-o-keyframes bg-gradient-blue-dark-blue {
+    0% {
+        background-position: 72% 0%
+    }
+
+    50% {
+        background-position: 29% 100%
+    }
+
+    100% {
+        background-position: 72% 0%
+    }
+}
+
+@keyframes bg-gradient-blue-dark-blue {
+    0% {
+        background-position: 72% 0%
+    }
+
+    50% {
+        background-position: 29% 100%
+    }
+
+    100% {
+        background-position: 72% 0%
+    }
+}
